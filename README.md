@@ -14,9 +14,6 @@ __A simple billing app built with HTML, CSS, JavaScript, Bootstrap, and ReactJS.
 <li>Calculate and display the grand total of all products.</li>
 </ul>
 
-## Demo
-__You can see a live demo of the Billing App here:-https://kaisama.github.io/Billing-Application/__
-
 ## Screenshots
 
 ## Installation:-
