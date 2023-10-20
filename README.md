@@ -15,7 +15,7 @@ __A simple billing app built with HTML, CSS, JavaScript, Bootstrap, and ReactJS.
 </ul>
 
 ## Demo
-__You can see a live demo of the Billing App here:-__
+__You can see a live demo of the Billing App here:-https://kaisama.github.io/Billing-Application/__
 
 ## Screenshots
 
