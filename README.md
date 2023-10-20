@@ -1,44 +1,54 @@
-Billing App
-A simple billing app built with HTML, CSS, JavaScript, Bootstrap, and ReactJS.
+# Billing App
 
-Features
-Add products with a name, price, and quantity.
-Delete products from the list.
-Track the total number of records added.
-Mark records for deletion.
-Calculate the total amount for each product.
-Display a table with product details.
-Provide operations to delete or view specific records.
-Calculate and display the grand total of all products.
+__A simple billing app built with HTML, CSS, JavaScript, Bootstrap, and ReactJS.__
 
-Demo
-You can see a live demo of the Billing App here.
+## Features
+<ul>
+<li>Add products with a name, price, and quantity.</li>
+<li>Delete products from the list.</li>
+<li>Track the total number of records added.</li>
+<li>Mark records for deletion.</li>
+<li>Calculate the total amount for each product.</li>
+<li>Display a table with product details.</li>
+<li>Provide operations to delete or view specific records.</li>
+<li>Calculate and display the grand total of all products.</li>
+</ul>
 
-Screenshots
+## Demo
+__You can see a live demo of the Billing App here:-__
 
-Installation
-To run this app locally, follow these steps:
-Clone the repository:
-git clone https://github.com/your-username/billing-app.git
-Navigate to the project directory:
-cd billing-app
-Install the necessary dependencies:
-npm install
-Start the development server:
-npm start
-Usage
-Add a product by providing its name, price, and quantity, and then click the "Add" button.
+## Screenshots
 
-Mark records for deletion by clicking the checkboxes next to the product entries.
+## Installation:-
 
-To delete marked records, click the "Delete" button.
+__To run this app locally, follow these steps:__
+<ul>
+<li>Clone the repository:-</li>
+  <ul class="circle">
+  <li>git clone https://github.com/your-username/billing-app.git</li></ul>
+<li>Navigate to the project directory:-</li>
+   <ul class="circle">
+  <li>cd billing-app</li></ul>
+<li>Install the necessary dependencies:-</li>
+   <ul class="circle">
+  <li>npm install</li></ul>
+<li>Start the development server:-</li>
+  <ul class="circle">
+  <li>npm start</li></ul>
+</ul>
 
-To view a specific product's details, click the "View" button in the "Operation" column.
+## Usage
 
-The grand total will be displayed at the bottom of the table.
+__1.Add a product by providing its name, price, and quantity, and then click the "Add" button.__
 
-Contributing
-If you'd like to contribute to this project, please follow our contribution guidelines.
+__2.Mark records for deletion by clicking the checkboxes next to the product entries.__
+
+__3.To delete marked records, click the "Delete" button.__
+
+__4.To view a specific product's details, click the "View" button in the "Operation" column.__
+
+__5.The grand total will be displayed at the bottom of the table.__
+
 
 
 
